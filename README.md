@@ -3,7 +3,7 @@
 - 📧 Contact: djwillian4021@gmail.com / willian.uss@escola.pr.gov.br.
 - 📚 Student of the Edutech PR project. Currently studying Front End.
 - ⭐ Outstanding student in the state! If you want to check: https://www.instagram.com/p/CQRg-V7gCoH/
-- 🎓 Graduated in:
+- 🎓 Coursed in:
 - 🖥️ Programming logic;
 - 🖥️ HTML5 and CSS3;
 - 📦 FlexBox;
