@@ -1,6 +1,7 @@
 ### Hi, I am Willian.
 
 - 📧 Contact: djwillian4021@gmail.com / willian.uss@escola.pr.gov.br.
+- 📓 15 years, High School Student.
 - 📚 Student of the Edutech PR project. Currently studying Front End.
 - ⭐ Outstanding student in the state! If you want to check: https://www.instagram.com/p/CQRg-V7gCoH/
 - 🎓 Coursed in:
