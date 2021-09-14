@@ -11,6 +11,7 @@
 - 📱 Responsive Layouts;
 - 🖥️ CSS Grid;
 - 📂 CSS Architecture;
+- 📁 CSS Style Guide;
 - 🅱️ BootStrap;
 
 <div>
