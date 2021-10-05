@@ -51,4 +51,4 @@
 </a>
 </details>
   
-  ![Snake animation](https://github.com/WillianMateusUss/WillianMateusUss/blob/output/github-contribution-grid-snake.svg)
+  ![Snake animation](https://github.com/WillianMateusUss/blob/output/github-contribution-grid-snake.svg)
