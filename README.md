@@ -15,6 +15,8 @@
 - 📂 CSS Architecture;
 - 📁 CSS Style Guide;
 - 🅱️ BootStrap;
+- 🌐 HTTP;
+- 🇦 Accessibility;
 
 ------
 
