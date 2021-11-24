@@ -52,3 +52,5 @@
   <img height="120em" align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=WillianMateusUss&repo=edutech-pr&theme=dark"/>
 </a>
 </details>
+  
+  ![github contribution grid snake animation](https://raw.githubusercontent.com/WillianMateusUss/WillianMateusUss/output/github-contribution-grid-snake.svg)
