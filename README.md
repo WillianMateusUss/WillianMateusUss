@@ -16,7 +16,8 @@
 - 📁 CSS Style Guide;
 - 🅱️ BootStrap;
 - 🌐 HTTP;
-- 🇦 Accessibility;
+- 👋 Accessibility;
+- ⚙️ SVG Animations;
 
 ------
 
