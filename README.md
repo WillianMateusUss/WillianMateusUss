@@ -29,3 +29,5 @@
   <img align="center" src="https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white">
   <img align="center" src="https://img.shields.io/badge/typeorm-FE0803?style=for-the-badge&logo=typeorm&logoColor=white">
 </div>
+
+[![Willian's GitHub stats](https://github-stats-extended.vercel.app/api?username=WillianMateusUss)](https://github.com/stats-organization/github-stats-extended)
