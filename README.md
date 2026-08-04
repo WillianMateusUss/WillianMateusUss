@@ -33,3 +33,5 @@
 <br>
 
 [![GitHub Stats](https://github-stats-extended.vercel.app/api?username=WillianMateusUss&rank_icon=github&show_icons=true&include_all_commits=true&theme=dark)](https://github-stats-extended.vercel.app/api?username=WillianMateusUss&rank_icon=github&show_icons=true&include_all_commits=true&theme=dark)
+
+[![GitHub Stats](https://github-stats-extended.vercel.app/api/top-langs?username=WillianMateusUss&langs_count=4&hide_values=true&theme=dark)](https://github-stats-extended.vercel.app/api/top-langs?username=WillianMateusUss&langs_count=4&hide_values=true&theme=dark)
